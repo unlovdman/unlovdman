@@ -5,6 +5,11 @@
 ## 👤 Terminal: whoami
 ► Details
 
+<details>
+<summary>🔮 Terminal: whoami</summary>
+
+</details>
+
 ## 🎮 Arcane Arsenal
 
 <div align="center">
@@ -48,5 +53,27 @@
 </picture>
 
 *"In the beginning, there was void... then someone typed 'Hello World'"*
+
+</div>
+
+<div align="center">
+  
+# 👾 Hello World, I'm unlovdman! 🌌
+
+</div>
+
+## 🎯 Epic Quests
+
+- [ ] Slay the Dragon of Legacy Code
+- [ ] Forge the Artifacts of Clean Architecture
+- [ ] Navigate the Scylla of Deadlines and the Charybdis of Technical Debt
+- [ ] Decode the Riddles of the Documentation Sphinx
+
+---
+<div align="center">
+
+*"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."*
+  
+*- Like Sisyphus, we push our commits up the repository, but unlike him, we make progress*
 
 </div>
