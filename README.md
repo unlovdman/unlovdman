@@ -1,35 +1,30 @@
-<div align="center">
 # ⚡ Coding Mythol ⚡
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Digital+Demigod+in+Training;Coding+Mythologist;Debugger+of+Worlds;Compiler+of+Dreams)](https://git.io/typing-svg)
-</div>
-## 👤 Terminal: whoami
-<details>
-summary>Click to reveal the ancient scroll...</summary>
-</details>
 
-## 🎯 Arcane Arsenal
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Digital+Demigod+in+Training;Coding+Mythologist;Debugger+of+Worlds;Compiler+of+Dreams)](https://git.io/typing-svg)
+
+## 👤 Terminal: whoami
+► Details
+
+## 🎮 Arcane Arsenal
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unlovdman&layout=compact&theme=radical&hide_border=true)](https://github.com/unlovdman)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unlovdman&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 ## 📜 Scrolls of Wisdom
 
-<div align="center">
+*"Like Prometheus bringing fire to mankind, each commit brings new light to the digital realm"*
 
-> *"Like Prometheus bringing fire to mankind, each commit brings new light to the digital realm"* 
-> 
-> *"Debug like Theseus in the labyrinth - one thread at a time"*
->
-> *"Your codebase is your labyrinth; documentation is your Ariadne's thread"*
->
-> *"Let your code be like the Phoenix - ready to rise again after each failure"*
->
-> *"As Odin sacrificed his eye for wisdom, sacrifice your pride for code review"*
+*"Debug like Theseus in the labyrinth - one thread at a time"*
 
-</div>
+*"Your codebase is your labyrinth; documentation is your Ariadne's thread"*
+
+*"Let your code be like the Phoenix - ready to rise again after each failure"*
+
+*"As Odin sacrificed his eye for wisdom, sacrifice your pride for code review"*
 
 ## ⭐ Cosmic Activity
 
@@ -39,11 +34,13 @@ summary>Click to reveal the ancient scroll...</summary>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unlovdman&show_icons=true&theme=tokyonight&hide_border=true)
+
+<img src="https://github-readme-stats.vercel.app/api?username=unlovdman&show_icons=true&theme=tokyonight&hide_border=true" />
+
 
 <img src="https://profile-counter.glitch.me/unlovdman/count.svg" />
 
-<!-- Jörmungandr, the World Serpent -->
+<!-- Jörmungandr,the world serpent -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unlovdman/unlovdman/output/github-contribution-grid-jormungandr.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unlovdman/unlovdman/output/github-contribution-grid-jormungandr.svg">
