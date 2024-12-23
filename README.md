@@ -4,8 +4,8 @@
 
 ## ⚡ Chronicles of the Code Weaver
 <div align="center">
-  <img src="https://github.com/unlovdman/unlovdman/blob/output/ocean.gif" />
-</div>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
+</div> 
 
 > *"Through Yggdrasil's branches my code flows free,*
 > *Like Odin's wisdom, my functions shall be.*
@@ -29,13 +29,13 @@
 
 ### 📊 Scrolls of Creation
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unlovdman&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=unlovdman&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unlovdman&theme=midnight-purple&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unlovdman&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
-### 🐉 Jörmungandr's Eternal Dance
-### 🐉 Jörmungandr's Embrance
+<!-- ### 🐉 Jörmungandr's Eternal Dance -->
+### 🐉 Jörmungandr's Embrace
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/unlovdman/unlovdman/blob/output/github-jormungandr-dark.svg">
