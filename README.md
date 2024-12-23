@@ -33,7 +33,7 @@
 
 ### 🐍 Jörmungandr's Embrace
 <div align="center">
-  <img src="https://github.com/unlovdman/unlovdman/blob/output/github-contribution-grid-snake.svg" alt="Jörmungandr devouring my contributions" />
+  <img src="https://github.com/unlovdman/unlovdman/blob/output/github-contribution-grid-jormungandr.svg" alt="Jörmungandr devouring my contributions" />
 </div>
 
 ---
