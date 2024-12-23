@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Norse&size=25&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=In+the+halls+of+Valhalla...;Where+code+flows+like+mead...;Bits+dance+like+Valkyries..." alt="Typing SVG" />
 </div>
 
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=unlovdman&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -12,7 +12,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=unlovdman&show_icons=true" />
-</picture>
+</picture> -->
 
 ## ⚡ Chronicles of a Code Weaver
 > *"As Prometheus stole fire from the gods, I steal bugs from my code,*
