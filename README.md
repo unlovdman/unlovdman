@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Norse&size=25&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=In+the+halls+of+Valhalla...;Where+code+flows+like+mead...;Bits+dance+like+Valkyries...;Through+the+digital+Yggdrasil...;Forging+code+in+Odin's+name...;By+the+light+of+Yggdrasil's+flame...;Where+algorithms+dance+with+runes...;And+functions+sing+ancient+tunes...;In+the+shadow+of+the+World+Tree...;Digital+magic+flows+wild+and+free..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Norse&size=25&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=535&lines=In+the+halls+of+Valhalla...;Where+code+flows+like+mead...;Bits+dance+like+Valkyries...;Through+the+digital+Yggdrasil...;Forging+code+in+Odin's+name...;By+the+light+of+Yggdrasil's+flame...;Where+algorithms+dance+with+runes...;And+functions+sing+ancient+tunes...;In+the+shadow+of+the+World+Tree...;Digital+magic+flows+wild+and+free..." alt="Typing SVG" />
 </div>
 
 ## ⚡ Chronicles of the Code Weaver
