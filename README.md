@@ -2,6 +2,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Norse&size=25&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=In+the+halls+of+Valhalla...;Where+code+flows+like+mead...;Bits+dance+like+Valkyries..." alt="Typing SVG" />
 </div>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=unlovdman&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=unlovdman&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=unlovdman&show_icons=true" />
+</picture>
+
 ## ⚡ Chronicles of a Code Weaver
 > *"As Prometheus stole fire from the gods, I steal bugs from my code,*
 > *Like Sisyphus I debug eternally, seeking perfection in my code.*
@@ -28,7 +40,17 @@
 
 ### 📊 Chronicles of Creation
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unlovdman&theme=radical&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=unlovdman&theme=dark&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=unlovdman&theme=default&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=unlovdman&theme=default&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
+  </picture>
 </div>
 
 ### 🐍 Jörmungandr's Embrace
