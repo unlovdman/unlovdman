@@ -56,9 +56,9 @@
 ### 🐍 Jörmungandr's Embrace
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unlovdman/unlovdman/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unlovdman/unlovdman/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/unlovdman/unlovdman/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unlovdman/unlovdman/output/github-jormungandr-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unlovdman/unlovdman/output/github-jormungandr.svg">
+    <img alt="github contribution grid Jörmungandr animation" src="https://raw.githubusercontent.com/unlovdman/unlovdman/output/github-jormungandr.svg">
   </picture>
 </div>
 
@@ -75,12 +75,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unlovdman&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
-<!-- Snake -->
+<!-- Jörmungandr -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/unlovdman/unlovdman/blob/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/unlovdman/unlovdman/blob/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/unlovdman/unlovdman/blob/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/unlovdman/unlovdman/blob/output/github-jormungandr-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/unlovdman/unlovdman/blob/output/github-jormungandr.svg">
+    <img alt="github contribution grid Jörmungandr animation" src="https://github.com/unlovdman/unlovdman/blob/output/github-jormungandr.svg">
   </picture>
 </div>
 
