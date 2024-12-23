@@ -23,7 +23,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-jormungandr.svg
-            dist/github-jormungandr-dark.svg?palette=github-dark&color_snake=6b3bce&color_dots=#2d203c,#372a4b,#453a6a,#5b4495,#6b3bce
+            dist/github-jormungandr-dark.svg?palette=github-dark&color_snake=9745f5&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
