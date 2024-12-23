@@ -3,14 +3,14 @@
 </div>
 
 ## ⚡ Chronicles of the Code Weaver
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-</div> 
 
 > *"Through Yggdrasil's branches my code flows free,*
 > *Like Odin's wisdom, my functions shall be.*
 > *In digital realms where bits intertwine,*
 > *My commits shine bright in the cosmic design."*
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
+</div> 
 
 ### 🌌 Runes of Power
 - 🗡️ Runesmith of the Digital Realms
@@ -38,11 +38,19 @@
 ### 🐉 Jörmungandr's Embrace
 <div align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unlovdman/unlovdman/output/github-jormungandr-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unlovdman/unlovdman/output/github-jormungandr.svg">
+    <img alt="github contribution grid Jörmungandr animation" src="https://raw.githubusercontent.com/unlovdman/unlovdman/output/github-jormungandr.svg">
+  </picture>
+</div>
+
+<!-- <div align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/unlovdman/unlovdman/blob/output/github-jormungandr-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/unlovdman/unlovdman/blob/output/github-jormungandr.svg">
     <img alt="Jörmungandr's contribution dance through the digital realms" src="https://github.com/unlovdman/unlovdman/blob/output/github-jormungandr.svg">
   </picture>
-</div>
+</div> -->
 
 <div align="center">
   <sub>*Witnessed by the Norns of the Digital Realms*</sub><br/>
