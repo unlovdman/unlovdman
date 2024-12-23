@@ -49,9 +49,12 @@
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=unlovdman&theme=default&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=unlovdman&theme=default&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=unlovdman&theme=aura&hide_border=true" width="50%" />
+
+    
   </picture>
 </div>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=unlovdman&theme=default&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" /> -->
 
 ### 🐍 Jörmungandr's Embrace
 <div align="center">
@@ -71,18 +74,18 @@
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=unlovdman&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unlovdman&theme=aura&hide_border=true" width="50%" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=unlovdman&theme=aura&hide_border=true" width="50%" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unlovdman&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
-<!-- Jörmungandr -->
+<!-- Jörmungandr
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/unlovdman/unlovdman/blob/output/github-jormungandr-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/unlovdman/unlovdman/blob/output/github-jormungandr.svg">
     <img alt="github contribution grid Jörmungandr animation" src="https://github.com/unlovdman/unlovdman/blob/output/github-jormungandr.svg">
   </picture>
-</div>
+</div> -->
 
 <!-- Counter -->
 <div align="center">
