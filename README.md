@@ -41,12 +41,23 @@
 
 ### 📊 class ScrollsOfCreation implements Metrics {
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=unlovdman&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unlovdman&theme=midnight-purple&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unlovdman&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
   <sub><sup>/* Monitored by Heimdall's Prometheus Instance */</sup></sub>
 </div>
 
+
+
 ### 🐉 @WorldSerpent(pattern = "RECURSIVE")
+
+<!-- <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/unlovdman/unlovdman/blob/output/github-jormungandr-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/unlovdman/unlovdman/blob/output/github-jormungandr.svg">
+    <img alt="Jörmungandr's contribution dance through the digital realms" src="https://github.com/unlovdman/unlovdman/blob/output/github-jormungandr.svg">
+  </picture>
+</div> -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unlovdman/unlovdman/output/github-jormungandr-dark.svg">
@@ -54,6 +65,8 @@
     <img alt="git log --graph --oneline --all" src="https://raw.githubusercontent.com/unlovdman/unlovdman/output/github-jormungandr.svg">
   </picture>
 </div>
+
+
 
 <div align="center">
   <sub>```yaml
